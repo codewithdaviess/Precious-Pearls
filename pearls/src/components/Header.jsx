@@ -4,7 +4,7 @@ import bg from '../assets/sossusvlei2.png';
 const Header = () => {
   return (
     <header
-      className="w-full min-h-[70vh] md:min-h-[80vh] lg:min-h-[90vh] bg-center bg-cover flex flex-col items-center justify-center relative px-4 py-12"
+      className="w-full h-[100vh]  bg-center bg-cover flex flex-col items-center justify-center relative px-4 py-12"
       style={{ backgroundImage: `url(${bg})` }}
     >
       {/* Optional overlay */}
