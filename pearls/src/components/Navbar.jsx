@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo1.png';
 
 const Navbar = () => {
   return (
@@ -9,9 +9,9 @@ const Navbar = () => {
         <div className="flex items-center space-x-12">
           {/* Left Nav Links */}
           <ul className="flex space-x-6">
-            <li><a href="#" className=" text-[#a9842e]">Homepage</a></li>
-            <li><a href="#" className="text-[#a9842e]">About</a></li>
-            <li><a href="#" className="text-[#a9842e]">Tours</a></li>
+            <li><a href="#" className=" text-black">Homepage</a></li>
+            <li><a href="#" className="text-black">About</a></li>
+            <li><a href="#" className="text-black">Tours</a></li>
           </ul>
 
           {/* Center Logo */}
@@ -21,9 +21,9 @@ const Navbar = () => {
 
           {/* Right Nav Links */}
           <ul className="flex space-x-6">
-            <li><a href="#" className="text-[#a9842e]">Blog</a></li>
-            <li><a href="#" className="text-[#a9842e]">Destinations</a></li>
-            <li><a href="#" className="text-[#a9842e]">Contact</a></li>
+            <li><a href="#" className="text-black">Blog</a></li>
+            <li><a href="#" className="text-black">Destinations</a></li>
+            <li><a href="#" className="text-black">Contact</a></li>
           </ul>
         </div>
       </div>

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo1.png';
 import { Menu, X } from 'lucide-react'; // or use any icons you want
 
 const MobileNavbar = () => {
