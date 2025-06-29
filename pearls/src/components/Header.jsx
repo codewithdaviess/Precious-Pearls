@@ -22,7 +22,7 @@ const Header = () => {
 
         {/* Left-aligned main content */}
         <div className="flex flex-col items-start justify-center text-white px-5 lg:px-20 text-left  flex-1 max-w-4xl">
-          <h1 className="text-4xl md:text-6xl font-bold mb-4">
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">
             Discover Breathtaking <br />
             Destinations Across Africa
           </h1>
